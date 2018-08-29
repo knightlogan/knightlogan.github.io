@@ -1,0 +1,30 @@
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    margin-top: 0 auto;
+}
+h2 {
+    color: #4aaaa5;
+}
+#hr2 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#test{
+    background-color: white;
+    width: 960px; 
+    margin: 30px;
+    border-style: solid;
+}
+img {
+    float: left;
+    padding: 20px;
+}
+.para1 {
+    float: right;
+}
+
+#div1 {
+    background-color: #777777;
+    margin: 0 auto;
+}
